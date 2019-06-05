@@ -1,0 +1,1 @@
+g++ -o TicTacToe main.cpp Board.cpp ClearScreen.cpp
